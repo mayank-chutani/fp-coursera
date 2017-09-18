@@ -11,5 +11,4 @@ object TestObj extends App {
         loop(num, 1)
     }
     println(tailRecursiveFactorial(5))
-    
 }
